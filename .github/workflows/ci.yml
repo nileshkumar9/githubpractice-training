@@ -29,7 +29,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: nileshkumar/weather-py:latest
+        tags: nilesh35apiit/weather-py:latest
 
     # Set up Kubernetes in Docker (KIND)
     - name: Create KIND Cluster
