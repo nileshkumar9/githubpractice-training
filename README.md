@@ -1,1 +1,1 @@
-githup practice-training
+githup practice-training and codeowners
